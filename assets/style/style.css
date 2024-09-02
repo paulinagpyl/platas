@@ -1,0 +1,43 @@
+.encabezado {
+  background-image: url("../img/suculentas.png");
+  background-size: cover;
+  height: 150px;
+}
+h1 {
+  font-size: 30px;
+  padding: 5px;
+  width: 50%;
+  margin: 0px;
+}
+div {
+  margin: 0px;
+}
+p {
+  font-size: 20px;
+ 
+}
+.producto {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.prod_img {
+  width: 40%;
+  text-align: right;
+  padding: 0px;
+  margin: 5px;
+}
+.prod_txt {
+  width: 40%;
+  padding: 5px;
+  text-align: justify;
+}
+.prod_desc {
+  font-size: 15px;
+}
+.pie {
+  background-color: brown;
+  text-align: center;
+  width: 100%;
+  margin: 0px;
+}
